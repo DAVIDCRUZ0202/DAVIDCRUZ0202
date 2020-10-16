@@ -1,5 +1,3 @@
-### Here's Who I am, what I'm doing, and what I'm working on! 👋
-
 Welcome to my page! I'm David . I'm a practitioner of DS and ML, currrently wrapping up a 6-month intensive Data Science bootcamp with Lambda School! I'm graduating with endorsement , actively looking for my first employment. I have a true passion for development and the process of making projects come to life, and I'm looking forward to working and growing with a great team in the near future.
 
 

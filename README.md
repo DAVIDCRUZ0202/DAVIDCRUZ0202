@@ -1,4 +1,4 @@
-Welcome to my page! I'm David . I'm a practitioner of DS and ML, currrently wrapping up a 6-month intensive Data Science bootcamp with Lambda School! I'm actively looking for my first employment. I have a true passion for development and the process of making projects come to life, and I'm looking forward to working and growing with a great team in the near future.
+Welcome to my page! I'm David . I'm a practitioner of Data Science and Machine Learning, currrently wrapping up a 6-month intensive Data Science bootcamp with Lambda School! I'm actively looking for my first employment. I have a true passion for development and the process of making projects come to life, and I'm looking forward to working and growing with a great team in the near future.
 
 
 I'm a python native with awesome experience using many different algorithms and ML models. I have a serious passion to my craft, and I love learning about everything.
@@ -8,4 +8,4 @@ I'm a python native with awesome experience using many different algorithms and 
 - 👯 I’m looking to collaborate on Kaggle Challenges!!
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/daavidcruuz/)
-- ⚡ Fun fact: I love DS/ML, but I've also built two microgames!
+- ⚡ Fun fact: I love Data Science / ML, but I've also built two microgames!
